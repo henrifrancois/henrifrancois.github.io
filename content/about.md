@@ -8,7 +8,7 @@ I am originally from Port-au-Prince, Haiti, and am passionate about creating com
 
 I am a long time writer of Python, but over the last three years have been enjoying writing more and more Rust. Currently, I am interested in learning more about Compiler Design, when I can.
 
-I am always looking to connect and learn more about like-minded individuals. If you'd like to reach out, please don't hesitate to tweet at me on [Twitter](https://twitter.com/nehri_), or shoot me an email at <henri.francois@protonmail.com>.
+I am always looking to connect and learn more about like-minded individuals. If you'd like to reach out, please don't hesitate to tweet at me on [Twitter](https://twitter.com/henri_franc), or shoot me an email at <henri.francois@protonmail.com>.
 
 Henri
 
