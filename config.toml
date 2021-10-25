@@ -1,19 +1,17 @@
 # The URL the site will be built for
 base_url = "https://henrifrancois.github.io"
 
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+title = "Henri François"
+description = "A dev blog"
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
-
-# Theme in use
-theme = "lightspeed"
-
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+theme = "after-dark"
+after_dark_title = "Henri François"
 
 [extra]
-# Put all your custom variables here
+author = "Henri François"
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "https://github.com/henrifrancois", name = "Github"},
+    {url = "https://twitter.com/nehri_", name = "Twitter"},
+]
+# taxonomies are not yet added as I don't yet need them, since I have no posts
