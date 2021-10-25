@@ -1,3 +1,6 @@
 [submodule "themes/lightspeed"]
 	path = themes/lightspeed
 	url = https://github.com/carpetscheme/lightspeed
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = https://github.com/getzola/after-dark.git
