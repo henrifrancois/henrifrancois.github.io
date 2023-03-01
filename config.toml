@@ -11,7 +11,5 @@ after_dark_title = "Henri François"
 author = "Henri François"
 after_dark_menu = [
     {url = "$BASE_URL", name = "Home"},
-    {url = "https://github.com/henrifrancois", name = "Github"},
-    {url = "https://twitter.com/henri_franc", name = "Twitter"},
+    {url = "https://hachyderm.io/@henrif", name = "Mastodon/Hachyderm"},
 ]
-# taxonomies are not yet added as I don't yet need them, since I have no posts

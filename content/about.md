@@ -15,4 +15,4 @@ Henri
 
 # NOTE
 
-If you'd like to know more about me, [take a look at my résumé](https://docs.google.com/document/d/1MUBD78INxSOYQp2wOeXG8UVmX2_37u94CGDoQMtT-8I/edit?usp=sharing)
+If you'd like to know more about me, [take a look at my résumé](https://docs.google.com/document/d/1MUBD78INxSOYQp2wOeXG8UVmX2_37u94CGDoQMtT-8I/edit?usp=sharing) [NOT UP TO DATE].
